@@ -1,6 +1,7 @@
 # asm-github1
 
 Solve all code file 
+compile and check proper running
 after each program commit with proper comment and push
 give the proper remarks here in readme
 
